@@ -8,13 +8,5 @@ Contact :
 
 > hortis ' 债#0006
 
-About me ?
-
-module.exports = {
-  user_name: 'Hortis',
-  years_old: 15,
-
-const pseudow = require('./hortis');
-console.log(hortis);
 
 
