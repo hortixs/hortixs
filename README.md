@@ -7,8 +7,7 @@
 Contact : 
 
 > ' hortis#0001
-> https://versamc.fr
-> https://discord.gg/YkkNt2twKZ
+> Site web :https://versamc.fr
 
 
 
