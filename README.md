@@ -6,7 +6,9 @@
 
 Contact : 
 
-> hortis ' 债#0006
+> ' hortis#0001
+> https://versamc.fr
+> https://discord.gg/YkkNt2twKZ
 
 
 
