@@ -11,7 +11,7 @@
 
 - 🤝 Je cherche de l'aide pour [TypeScript](" hortis#6660)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Mes réseaux:</h3>
 <p align="left">
 <a href="https://discord.gg/https://discord.gg/YkkNt2twKZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/YkkNt2twKZ" height="30" width="40" /></a>
 </p>
