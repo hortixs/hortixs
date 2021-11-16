@@ -1,10 +1,7 @@
-
 <h1 align="center">Bonjour 👋, je suis Hortis</h1>
 <h3 align="center">Je suis entrain d'apprendre le développement</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hortixs&label=Profile%20views&color=0e75b6&style=flat" alt="hortixs" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hortixs" alt="hortixs" /></a> </p>
 
 - 🔭 Je travaille actuellement sur [VersaMC](versamc.fr)
 
@@ -16,8 +13,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/hortis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hortis" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/hortis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hortis" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/YkkNt2twKZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/YkkNt2twKZ" height="30" width="40" /></a>
 </p>
 
