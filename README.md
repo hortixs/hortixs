@@ -11,7 +11,7 @@
 
 - 🤝 Je cherche de l'aide pour **TypeScript**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Me connecter :</h3>
 <p align="left">
 <a href="https://twitter.com/@hortispro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@hortispro" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/YkkNt2twKZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/YkkNt2twKZ" height="30" width="40" /></a>
