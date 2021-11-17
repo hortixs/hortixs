@@ -3,8 +3,6 @@
 <h1 align="center">Bonjour 👋, je suis Hortis</h1>
 <h3 align="center">Je suis entrain d'apprendre le développement</h3>
 
-<p align="left"> <a href="https://twitter.com/@hortispro" target="blank"><img src="https://img.shields.io/twitter/follow/@hortispro?logo=twitter&style=for-the-badge" alt="@hortispro" /></a> </p>
-
 - 🔭 Je travaille actuellement sur [VersaMC](versamc.fr)
 
 - 🌱 Je suis en train d'apprendre le **web**
