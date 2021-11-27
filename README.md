@@ -7,8 +7,6 @@
 
 - 🌱 Je suis en train d'apprendre le **web**
 
-- 📫 Comment me contacter **hortis0107@gmail.com**
-
 - 🤝 Je cherche de l'aide pour **TypeScript**
 
 <h3 align="left">Me connecter :</h3>
