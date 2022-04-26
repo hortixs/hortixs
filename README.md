@@ -5,9 +5,9 @@
 
 - 🔭 Je travaille actuellement sur [VersaMC](versamc.fr)
 
-- 🌱 Je suis en train d'apprendre le **web**
+- 🌱 Je suis en train d'apprendre le **Java**
 
-- 🤝 Je cherche de l'aide pour **TypeScript**
+- 🤝 Je cherche de l'aide pour **Java & TS**
 
 <h3 align="left">Me connecter :</h3>
 <p align="left">
