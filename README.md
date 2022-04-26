@@ -3,7 +3,7 @@
 <h1 align="center">Bonjour 👋, je suis Hortis</h1>
 <h3 align="center">Je suis entrain d'apprendre le développement</h3>
 
-- 🔭 Je travaille actuellement sur [VersaMC](versamc.fr)
+- 🔭 Je travaille actuellement sur [VersaMC](https://versamc.fr)
 
 - 🌱 Je suis en train d'apprendre le **Java**
 
