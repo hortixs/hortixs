@@ -5,9 +5,9 @@
 
 - 🔭 Je travaille actuellement sur [VersaMC](https://versamc.fr)
 
-- 🌱 Je suis en train d'apprendre le **Java**
+- 🌱 Je suis en train d'apprendre le **JavaScript**
 
-- 🤝 Je cherche de l'aide pour **Java & TS**
+- 🤝 Si vous avez des conseils pour le **JavaScript et le TS**
 
 <h3 align="left">Me connecter :</h3>
 <p align="left">
