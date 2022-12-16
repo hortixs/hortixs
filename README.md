@@ -1,4 +1,4 @@
-![alt text](https://cdn.discordapp.com/attachments/860098738550210580/910510567201062912/media.jpg)
+
 
 <h1 align="center">Bonjour 👋, je suis Hortis</h1>
 <h3 align="center">Je suis entrain d'apprendre le développement</h3>
