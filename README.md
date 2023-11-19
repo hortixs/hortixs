@@ -5,10 +5,6 @@
 
 - 🔭 Je travaille actuellement sur [VersaMC](https://versamc.fr)
 
-- 🌱 Je suis en train d'apprendre le **JavaScript**
-
-- 🤝 Si vous avez des conseils pour le **JavaScript et le TS**
-
 <h3 align="left">Me connecter :</h3>
 <p align="left">
 <a href="https://twitter.com/@hortispro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@hortispro" height="30" width="40" /></a>
