@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Hortis from French and I'm 17 yo<br><br>- 🔭 I’m working as VersaMC<br>- 📚 I'm currently learning Java, JavaScript, Python<br>- ⚡I also dabble in bash, cybersecurity and maths.</p>
+<p align="left">I'm Amel from French and I'm 17 yo<br><br>- 🔭 I’m working as VersaMC<br>- 📚 I'm currently learning Java, JavaScript, Python<br>- ⚡I also dabble in bash, cybersecurity and maths.</p>
 
 ###
 
